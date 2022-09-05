@@ -1,7 +1,8 @@
 # CYK-Parsing
 
 //To run the project.
-java CYK <GrammarFile> <Word>
+
+java CYK GrammarFileName Word
 
 //Example.
 java CYK grammar.txt abbbabaa
